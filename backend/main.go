@@ -4,8 +4,8 @@ import (
     "fmt"
     "log"
     "os"
-    "github.com/yourusername/student-course-tracker/backend/models"
-	"github.com/yourusername/student-course-tracker/backend/routes"
+    "github.com/parasmotwani/student-course-tracker/backend/models"
+	"github.com/parasmotwani/student-course-tracker/backend/routes"
 
     "gorm.io/driver/postgres"
     "gorm.io/gorm"
